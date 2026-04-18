@@ -139,14 +139,80 @@
 
 ## Traceability
 
-*(Filled by roadmapper)*
-
-| REQ-ID | Phase |
-|--------|-------|
-| DATA-01–06 | Phase 1 |
-| ENV-01–15, ECON-01–16 | Phase 1 |
-| PARSE-01–06 | Phase 2 |
-| ENV-RL-01–07, MODEL-01–05 | Phase 3 |
-| TRAIN-01–05 | Phase 5 |
-| REPORT-01–05 | Phase 4 |
-| UI-01–10 | Phase 3–4 |
+| REQ-ID | Phase | Status |
+|--------|-------|--------|
+| DATA-01 | Phase 1 — Data Foundation | Pending |
+| DATA-02 | Phase 1 — Data Foundation | Pending |
+| DATA-03 | Phase 1 — Data Foundation | Pending |
+| DATA-04 | Phase 1 — Data Foundation | Pending |
+| DATA-05 | Phase 1 — Data Foundation | Pending |
+| DATA-06 | Phase 1 — Data Foundation | Pending |
+| ENV-01 | Phase 1 — Data Foundation | Pending |
+| ENV-02 | Phase 1 — Data Foundation | Pending |
+| ENV-03 | Phase 1 — Data Foundation | Pending |
+| ENV-04 | Phase 1 — Data Foundation | Pending |
+| ENV-05 | Phase 1 — Data Foundation | Pending |
+| ENV-06 | Phase 1 — Data Foundation | Pending |
+| ENV-07 | Phase 1 — Data Foundation | Pending |
+| ENV-08 | Phase 1 — Data Foundation | Pending |
+| ENV-09 | Phase 1 — Data Foundation | Pending |
+| ENV-10 | Phase 1 — Data Foundation | Pending |
+| ENV-11 | Phase 1 — Data Foundation | Pending |
+| ENV-12 | Phase 1 — Data Foundation | Pending |
+| ENV-13 | Phase 1 — Data Foundation | Pending |
+| ENV-14 | Phase 1 — Data Foundation | Pending |
+| ENV-15 | Phase 1 — Data Foundation | Pending |
+| ECON-01 | Phase 1 — Data Foundation | Pending |
+| ECON-02 | Phase 1 — Data Foundation | Pending |
+| ECON-03 | Phase 1 — Data Foundation | Pending |
+| ECON-04 | Phase 1 — Data Foundation | Pending |
+| ECON-05 | Phase 1 — Data Foundation | Pending |
+| ECON-06 | Phase 1 — Data Foundation | Pending |
+| ECON-07 | Phase 1 — Data Foundation | Pending |
+| ECON-08 | Phase 1 — Data Foundation | Pending |
+| ECON-09 | Phase 1 — Data Foundation | Pending |
+| ECON-10 | Phase 1 — Data Foundation | Pending |
+| ECON-11 | Phase 1 — Data Foundation | Pending |
+| ECON-12 | Phase 1 — Data Foundation | Pending |
+| ECON-13 | Phase 1 — Data Foundation | Pending |
+| ECON-14 | Phase 1 — Data Foundation | Pending |
+| ECON-15 | Phase 1 — Data Foundation | Pending |
+| ECON-16 | Phase 1 — Data Foundation | Pending |
+| PARSE-01 | Phase 2 — NL Parser | Pending |
+| PARSE-02 | Phase 2 — NL Parser | Pending |
+| PARSE-03 | Phase 2 — NL Parser | Pending |
+| PARSE-04 | Phase 2 — NL Parser | Pending |
+| PARSE-05 | Phase 2 — NL Parser | Pending |
+| PARSE-06 | Phase 2 — NL Parser | Pending |
+| ENV-RL-01 | Phase 3 — Env + UI Skeleton | Pending |
+| ENV-RL-02 | Phase 3 — Env + UI Skeleton | Pending |
+| ENV-RL-03 | Phase 3 — Env + UI Skeleton | Pending |
+| ENV-RL-04 | Phase 3 — Env + UI Skeleton | Pending |
+| ENV-RL-05 | Phase 3 — Env + UI Skeleton | Pending |
+| ENV-RL-06 | Phase 3 — Env + UI Skeleton | Pending |
+| ENV-RL-07 | Phase 3 — Env + UI Skeleton | Pending |
+| MODEL-01 | Phase 3 — Env + UI Skeleton | Pending |
+| MODEL-02 | Phase 3 — Env + UI Skeleton | Pending |
+| MODEL-03 | Phase 3 — Env + UI Skeleton | Pending |
+| UI-01 | Phase 3 — Env + UI Skeleton | Pending |
+| UI-02 | Phase 3 — Env + UI Skeleton | Pending |
+| UI-03 | Phase 3 — Env + UI Skeleton | Pending |
+| UI-07 | Phase 3 — Env + UI Skeleton | Pending |
+| UI-08 | Phase 3 — Env + UI Skeleton | Pending |
+| UI-09 | Phase 3 — Env + UI Skeleton | Pending |
+| UI-10 | Phase 3 — Env + UI Skeleton | Pending |
+| REPORT-01 | Phase 4 — Reports + Differentiators | Pending |
+| REPORT-02 | Phase 4 — Reports + Differentiators | Pending |
+| REPORT-03 | Phase 4 — Reports + Differentiators | Pending |
+| REPORT-04 | Phase 4 — Reports + Differentiators | Pending |
+| REPORT-05 | Phase 4 — Reports + Differentiators | Pending |
+| MODEL-04 | Phase 4 — Reports + Differentiators | Pending |
+| MODEL-05 | Phase 4 — Reports + Differentiators | Pending |
+| UI-04 | Phase 4 — Reports + Differentiators | Pending |
+| UI-05 | Phase 4 — Reports + Differentiators | Pending |
+| UI-06 | Phase 4 — Reports + Differentiators | Pending |
+| TRAIN-01 | Phase 5 — GRU Training | Pending |
+| TRAIN-02 | Phase 5 — GRU Training | Pending |
+| TRAIN-03 | Phase 5 — GRU Training | Pending |
+| TRAIN-04 | Phase 5 — GRU Training | Pending |
+| TRAIN-05 | Phase 5 — GRU Training | Pending |
